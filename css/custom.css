@@ -57,3 +57,12 @@
 .open-data-node {
 	float: right;
 }
+
+article.single-post {
+  padding: 20px 30px;
+}
+
+#home {
+  padding: 20px 30px;
+}
+
