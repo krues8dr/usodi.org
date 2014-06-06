@@ -15,7 +15,7 @@ There are two arguments that are often used in favor of open data:
 
 These arguments tend to be persusive to citizens and elected officials. I often use both of these arguments. But there's an important group to whom they're not persuasive: government employees. The people who actually open data. Imagine how you‘d feel if somebody marched into your office and told you that you needed to do something unfamiliar, confusing, fraught, and not in your job description, *because you owe it to her if you love America.* You'd probably gin up a reason not to do it.
 
-Government employees are rational actors. They have a job to do, and “open data” appears in the job description of maybe a few dozen of them. In a economy in recovery, government agencies are short on staff and on funding—dedicating time and money to tossing data into the ether in hopes that somebody will do something useful with it...well, that’s not very sensible. We need to emphasize reality-based reasons why governments should produce open data.
+Government employees are rational actors. They have a job to do, and “open data” appears in the job description of maybe a few dozen of them. In an economy in recovery, government agencies are short on staff and on funding—dedicating time and money to tossing data into the ether in hopes that somebody will do something useful with it...well, that’s not very sensible. We need to emphasize reality-based reasons why governments should produce open data.
 
 ## Let’s Try This
 
